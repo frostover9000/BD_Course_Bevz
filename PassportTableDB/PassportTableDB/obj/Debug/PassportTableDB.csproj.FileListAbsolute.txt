@@ -1,0 +1,10 @@
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\bin\Debug\PassportTableDB.exe.config
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\bin\Debug\PassportTableDB.exe
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\bin\Debug\PassportTableDB.pdb
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\obj\Debug\PassportTableDB.csprojResolveAssemblyReference.cache
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\obj\Debug\PassportTableDB.Properties.Resources.resources
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\obj\Debug\PassportTableDB.csproj.GenerateResource.Cache
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\obj\Debug\PassportTableDB.exe
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\obj\Debug\PassportTableDB.pdb
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\obj\Debug\PassportTableDB.Main.resources
+c:\documents\visual studio 2015\Projects\PassportTableDB\PassportTableDB\obj\Debug\PassportTableDB.Civizen.resources
